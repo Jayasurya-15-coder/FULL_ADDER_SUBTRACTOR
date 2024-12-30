@@ -1,5 +1,5 @@
-# NAME : B JAYASURYA
-# REG NO : 24001758
+### NAME : B JAYASURYA
+### REG NO : 24001758
 # EXPERIMENT 3 : FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
